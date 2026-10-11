@@ -1,0 +1,501 @@
+Patient_ID,Age,Gender,Color,Transparency,LEU,NIT,URO,PRO,pH,BLO,SG,KET,BIL,GLU,Bacteria,Diagnosis
+P0001,24,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0002,70,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0003,22,Female,Yellow,Cloudy,+++,Positive,0.2,100,6.5,Trace,1.015,0,0,0,Present,UTI
+P0004,38,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0005,60,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0006,73,Male,Amber,Clear,Negative,Negative,4.0,0,6.5,Negative,1.015,0,4,0,Absent,Liver Disease
+P0007,18,Female,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.025,40,0,500,Absent,Diabetes
+P0008,36,Male,Yellow,Clear,Negative,Negative,0.2,100,6.5,++,1.01,0,0,0,Absent,Kidney Disease
+P0009,79,Female,Yellow,Cloudy,++,Positive,0.2,100,6.5,+,1.015,0,0,0,Present,UTI
+P0010,84,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0011,85,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0012,83,Female,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.03,160,0,2000,Absent,Diabetes
+P0013,84,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0014,22,Male,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.03,80,0,500,Absent,Diabetes
+P0015,39,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0016,68,Male,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.03,160,0,1000,Absent,Diabetes
+P0017,20,Male,Yellow,Cloudy,+++,Positive,0.2,30,6.5,+,1.015,0,0,0,Present,UTI
+P0018,47,Female,Yellow,Cloudy,++,Positive,0.2,100,6.5,+,1.015,0,0,0,Present,UTI
+P0019,47,Female,Dark Yellow,Clear,Negative,Negative,0.2,0,6.0,Negative,1.025,0,0,0,Absent,Dehydration
+P0020,66,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0021,35,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0022,50,Female,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.03,160,0,1000,Absent,Diabetes
+P0023,18,Male,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.025,80,0,2000,Absent,Diabetes
+P0024,28,Female,Amber,Clear,Negative,Negative,4.0,0,6.5,Negative,1.015,0,4,0,Absent,Liver Disease
+P0025,69,Male,Dark Yellow,Clear,Negative,Negative,0.2,0,6.0,Negative,1.03,0,0,0,Absent,Dehydration
+P0026,22,Female,Yellow,Cloudy,++,Positive,0.2,30,6.5,+,1.015,0,0,0,Present,UTI
+P0027,26,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0028,48,Male,Yellow,Clear,Negative,Negative,0.2,2000,6.5,+,1.01,0,0,0,Absent,Kidney Disease
+P0029,57,Male,Amber,Clear,Negative,Negative,8.0,0,6.5,Negative,1.015,0,4,0,Absent,Liver Disease
+P0030,65,Male,Yellow,Cloudy,+++,Positive,0.2,30,6.5,Trace,1.015,0,0,0,Present,UTI
+P0031,67,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0032,35,Female,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.03,80,0,1000,Absent,Diabetes
+P0033,56,Female,Yellow,Clear,Negative,Negative,0.2,100,6.5,+,1.01,0,0,0,Absent,Kidney Disease
+P0034,84,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0035,31,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0036,61,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0037,82,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0038,59,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0039,82,Male,Dark Yellow,Clear,Negative,Negative,0.2,0,5.0,Negative,1.025,0,0,0,Absent,Dehydration
+P0040,42,Female,Yellow,Cloudy,++,Positive,0.2,100,6.5,Trace,1.015,0,0,0,Present,UTI
+P0041,61,Male,Amber,Clear,Negative,Negative,8.0,0,6.5,Negative,1.015,0,2,0,Absent,Liver Disease
+P0042,81,Female,Yellow,Clear,Negative,Negative,0.2,300,6.5,++,1.01,0,0,0,Absent,Kidney Disease
+P0043,68,Male,Yellow,Clear,Negative,Negative,0.2,100,6.5,+,1.01,0,0,0,Absent,Kidney Disease
+P0044,61,Male,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.03,80,0,1000,Absent,Diabetes
+P0045,71,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0046,75,Female,Yellow,Clear,Negative,Negative,0.2,100,6.5,+,1.01,0,0,0,Absent,Kidney Disease
+P0047,25,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0048,51,Male,Amber,Clear,Negative,Negative,8.0,0,6.5,Negative,1.015,0,4,0,Absent,Liver Disease
+P0049,26,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0050,51,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0051,66,Male,Yellow,Cloudy,+++,Positive,0.2,30,6.5,+,1.015,0,0,0,Present,UTI
+P0052,59,Male,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.03,80,0,1000,Absent,Diabetes
+P0053,49,Female,Yellow,Cloudy,+++,Positive,0.2,100,6.5,Trace,1.015,0,0,0,Present,UTI
+P0054,41,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0055,81,Male,Yellow,Cloudy,++,Positive,0.2,100,6.5,Trace,1.015,0,0,0,Present,UTI
+P0056,59,Female,Amber,Clear,Negative,Negative,12.0,0,6.5,Negative,1.015,0,2,0,Absent,Liver Disease
+P0057,22,Female,Yellow,Cloudy,+++,Positive,0.2,30,6.5,+,1.015,0,0,0,Present,UTI
+P0058,67,Male,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.03,80,0,500,Absent,Diabetes
+P0059,39,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0060,23,Male,Yellow,Cloudy,++,Positive,0.2,30,6.5,Trace,1.015,0,0,0,Present,UTI
+P0061,52,Male,Yellow,Clear,Negative,Negative,0.2,2000,6.5,+,1.01,0,0,0,Absent,Kidney Disease
+P0062,81,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0063,85,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0064,53,Male,Yellow,Cloudy,++,Positive,0.2,100,6.5,+,1.015,0,0,0,Present,UTI
+P0065,75,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0066,73,Female,Yellow,Cloudy,++,Positive,0.2,100,6.5,Trace,1.015,0,0,0,Present,UTI
+P0067,42,Male,Dark Yellow,Clear,Negative,Negative,0.2,0,5.0,Negative,1.025,0,0,0,Absent,Dehydration
+P0068,44,Male,Yellow,Cloudy,++,Positive,0.2,30,6.5,+,1.015,0,0,0,Present,UTI
+P0069,59,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0070,49,Female,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.025,80,0,500,Absent,Diabetes
+P0071,54,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0072,21,Female,Yellow,Clear,Negative,Negative,0.2,300,6.5,+,1.01,0,0,0,Absent,Kidney Disease
+P0073,46,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0074,42,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0075,81,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0076,78,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0077,76,Female,Yellow,Cloudy,++,Positive,0.2,100,6.5,+,1.015,0,0,0,Present,UTI
+P0078,54,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0079,24,Male,Yellow,Cloudy,++,Positive,0.2,100,6.5,Trace,1.015,0,0,0,Present,UTI
+P0080,44,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0081,34,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0082,18,Male,Yellow,Clear,Negative,Negative,0.2,100,6.5,++,1.005,0,0,0,Absent,Kidney Disease
+P0083,30,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0084,73,Male,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.025,40,0,500,Absent,Diabetes
+P0085,32,Female,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.025,160,0,500,Absent,Diabetes
+P0086,63,Female,Dark Yellow,Clear,Negative,Negative,0.2,0,5.0,Negative,1.025,0,0,0,Absent,Dehydration
+P0087,48,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0088,36,Male,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.03,80,0,1000,Absent,Diabetes
+P0089,62,Male,Yellow,Clear,Negative,Negative,0.2,100,6.5,+,1.005,0,0,0,Absent,Kidney Disease
+P0090,49,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0091,18,Female,Amber,Clear,Negative,Negative,8.0,0,6.5,Negative,1.015,0,4,0,Absent,Liver Disease
+P0092,34,Female,Amber,Clear,Negative,Negative,8.0,0,6.5,Negative,1.015,0,4,0,Absent,Liver Disease
+P0093,58,Male,Yellow,Clear,Negative,Negative,0.2,2000,6.5,+,1.01,0,0,0,Absent,Kidney Disease
+P0094,28,Female,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.03,80,0,2000,Absent,Diabetes
+P0095,31,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0096,27,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0097,63,Female,Yellow,Clear,Negative,Negative,0.2,300,6.5,+,1.01,0,0,0,Absent,Kidney Disease
+P0098,21,Female,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.025,160,0,2000,Absent,Diabetes
+P0099,42,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0100,35,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0101,27,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0102,50,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0103,70,Male,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.025,160,0,2000,Absent,Diabetes
+P0104,33,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0105,57,Female,Dark Yellow,Clear,Negative,Negative,0.2,0,5.0,Negative,1.025,0,0,0,Absent,Dehydration
+P0106,32,Male,Dark Yellow,Clear,Negative,Negative,0.2,0,6.0,Negative,1.03,0,0,0,Absent,Dehydration
+P0107,63,Male,Yellow,Clear,Negative,Negative,0.2,100,6.5,++,1.005,0,0,0,Absent,Kidney Disease
+P0108,71,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0109,18,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0110,28,Male,Yellow,Cloudy,+++,Positive,0.2,30,6.5,+,1.015,0,0,0,Present,UTI
+P0111,57,Male,Amber,Clear,Negative,Negative,12.0,0,6.5,Negative,1.015,0,2,0,Absent,Liver Disease
+P0112,68,Female,Yellow,Cloudy,++,Positive,0.2,100,6.5,+,1.015,0,0,0,Present,UTI
+P0113,61,Male,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.025,80,0,1000,Absent,Diabetes
+P0114,72,Male,Yellow,Cloudy,+++,Positive,0.2,30,6.5,Trace,1.015,0,0,0,Present,UTI
+P0115,39,Male,Yellow,Cloudy,++,Positive,0.2,100,6.5,Trace,1.015,0,0,0,Present,UTI
+P0116,69,Female,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.025,40,0,1000,Absent,Diabetes
+P0117,29,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0118,57,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0119,22,Male,Amber,Clear,Negative,Negative,12.0,0,6.5,Negative,1.015,0,2,0,Absent,Liver Disease
+P0120,24,Female,Yellow,Clear,Negative,Negative,0.2,300,6.5,++,1.01,0,0,0,Absent,Kidney Disease
+P0121,41,Female,Dark Yellow,Clear,Negative,Negative,0.2,0,5.0,Negative,1.025,0,0,0,Absent,Dehydration
+P0122,23,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0123,35,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0124,71,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0125,41,Male,Dark Yellow,Clear,Negative,Negative,0.2,0,5.0,Negative,1.025,0,0,0,Absent,Dehydration
+P0126,84,Male,Yellow,Cloudy,++,Positive,0.2,100,6.5,Trace,1.015,0,0,0,Present,UTI
+P0127,65,Female,Yellow,Clear,Negative,Negative,0.2,300,6.5,++,1.01,0,0,0,Absent,Kidney Disease
+P0128,61,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0129,65,Male,Yellow,Cloudy,+++,Positive,0.2,100,6.5,+,1.015,0,0,0,Present,UTI
+P0130,40,Male,Dark Yellow,Clear,Negative,Negative,0.2,0,5.0,Negative,1.025,0,0,0,Absent,Dehydration
+P0131,67,Male,Yellow,Cloudy,++,Positive,0.2,100,6.5,Trace,1.015,0,0,0,Present,UTI
+P0132,85,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0133,71,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0134,79,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0135,24,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0136,23,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0137,39,Female,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.025,160,0,500,Absent,Diabetes
+P0138,83,Male,Yellow,Clear,Negative,Negative,0.2,300,6.5,+,1.01,0,0,0,Absent,Kidney Disease
+P0139,37,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0140,82,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0141,72,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0142,24,Female,Amber,Clear,Negative,Negative,8.0,0,6.5,Negative,1.015,0,2,0,Absent,Liver Disease
+P0143,74,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0144,22,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0145,48,Female,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.03,160,0,2000,Absent,Diabetes
+P0146,47,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0147,75,Male,Yellow,Clear,Negative,Negative,0.2,300,6.5,++,1.005,0,0,0,Absent,Kidney Disease
+P0148,62,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0149,63,Female,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.025,40,0,1000,Absent,Diabetes
+P0150,33,Male,Dark Yellow,Clear,Negative,Negative,0.2,0,6.0,Negative,1.025,0,0,0,Absent,Dehydration
+P0151,83,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0152,81,Male,Yellow,Clear,Negative,Negative,0.2,100,6.5,++,1.005,0,0,0,Absent,Kidney Disease
+P0153,60,Female,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.025,80,0,500,Absent,Diabetes
+P0154,63,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0155,50,Male,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.025,40,0,1000,Absent,Diabetes
+P0156,28,Male,Yellow,Cloudy,+++,Positive,0.2,100,6.5,+,1.015,0,0,0,Present,UTI
+P0157,23,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0158,56,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0159,60,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0160,60,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0161,74,Female,Yellow,Cloudy,++,Positive,0.2,30,6.5,+,1.015,0,0,0,Present,UTI
+P0162,58,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0163,78,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0164,22,Female,Yellow,Clear,Negative,Negative,0.2,100,6.5,++,1.005,0,0,0,Absent,Kidney Disease
+P0165,78,Male,Yellow,Clear,Negative,Negative,0.2,100,6.5,+,1.01,0,0,0,Absent,Kidney Disease
+P0166,79,Female,Yellow,Cloudy,+++,Positive,0.2,100,6.5,+,1.015,0,0,0,Present,UTI
+P0167,73,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0168,68,Female,Dark Yellow,Clear,Negative,Negative,0.2,0,6.0,Negative,1.03,0,0,0,Absent,Dehydration
+P0169,85,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0170,25,Male,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.03,80,0,2000,Absent,Diabetes
+P0171,48,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0172,84,Male,Amber,Clear,Negative,Negative,12.0,0,6.5,Negative,1.015,0,4,0,Absent,Liver Disease
+P0173,28,Female,Yellow,Cloudy,+++,Positive,0.2,100,6.5,Trace,1.015,0,0,0,Present,UTI
+P0174,39,Female,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.03,40,0,500,Absent,Diabetes
+P0175,71,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0176,52,Male,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.025,80,0,500,Absent,Diabetes
+P0177,24,Female,Amber,Clear,Negative,Negative,12.0,0,6.5,Negative,1.015,0,2,0,Absent,Liver Disease
+P0178,75,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0179,60,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0180,30,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0181,45,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0182,77,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0183,85,Male,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.025,160,0,500,Absent,Diabetes
+P0184,71,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0185,57,Male,Yellow,Cloudy,++,Positive,0.2,100,6.5,+,1.015,0,0,0,Present,UTI
+P0186,20,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0187,73,Male,Amber,Clear,Negative,Negative,4.0,0,6.5,Negative,1.015,0,2,0,Absent,Liver Disease
+P0188,47,Female,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.025,160,0,1000,Absent,Diabetes
+P0189,43,Male,Yellow,Cloudy,++,Positive,0.2,100,6.5,Trace,1.015,0,0,0,Present,UTI
+P0190,30,Female,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.03,40,0,2000,Absent,Diabetes
+P0191,69,Male,Yellow,Cloudy,++,Positive,0.2,100,6.5,Trace,1.015,0,0,0,Present,UTI
+P0192,52,Female,Yellow,Cloudy,+++,Positive,0.2,30,6.5,Trace,1.015,0,0,0,Present,UTI
+P0193,44,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0194,29,Female,Yellow,Cloudy,+++,Positive,0.2,30,6.5,Trace,1.015,0,0,0,Present,UTI
+P0195,77,Female,Yellow,Cloudy,+++,Positive,0.2,100,6.5,Trace,1.015,0,0,0,Present,UTI
+P0196,75,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0197,60,Male,Yellow,Cloudy,+++,Positive,0.2,100,6.5,Trace,1.015,0,0,0,Present,UTI
+P0198,81,Female,Dark Yellow,Clear,Negative,Negative,0.2,0,5.0,Negative,1.03,0,0,0,Absent,Dehydration
+P0199,47,Female,Dark Yellow,Clear,Negative,Negative,0.2,0,6.0,Negative,1.03,0,0,0,Absent,Dehydration
+P0200,85,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0201,62,Female,Yellow,Clear,Negative,Negative,0.2,300,6.5,++,1.005,0,0,0,Absent,Kidney Disease
+P0202,40,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0203,60,Male,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.025,160,0,500,Absent,Diabetes
+P0204,72,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0205,51,Female,Yellow,Clear,Negative,Negative,0.2,300,6.5,++,1.005,0,0,0,Absent,Kidney Disease
+P0206,47,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0207,47,Male,Dark Yellow,Clear,Negative,Negative,0.2,0,6.0,Negative,1.03,0,0,0,Absent,Dehydration
+P0208,59,Male,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.025,80,0,1000,Absent,Diabetes
+P0209,48,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0210,52,Male,Yellow,Cloudy,++,Positive,0.2,30,6.5,Trace,1.015,0,0,0,Present,UTI
+P0211,40,Female,Yellow,Clear,Negative,Negative,0.2,2000,6.5,++,1.005,0,0,0,Absent,Kidney Disease
+P0212,66,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0213,59,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0214,74,Female,Amber,Clear,Negative,Negative,4.0,0,6.5,Negative,1.015,0,4,0,Absent,Liver Disease
+P0215,71,Female,Dark Yellow,Clear,Negative,Negative,0.2,0,6.0,Negative,1.03,0,0,0,Absent,Dehydration
+P0216,23,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0217,77,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0218,84,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0219,65,Male,Dark Yellow,Clear,Negative,Negative,0.2,0,5.0,Negative,1.025,0,0,0,Absent,Dehydration
+P0220,26,Male,Yellow,Cloudy,+++,Positive,0.2,100,6.5,+,1.015,0,0,0,Present,UTI
+P0221,42,Female,Yellow,Clear,Negative,Negative,0.2,2000,6.5,+,1.005,0,0,0,Absent,Kidney Disease
+P0222,42,Male,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.03,40,0,2000,Absent,Diabetes
+P0223,53,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0224,68,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0225,37,Male,Dark Yellow,Clear,Negative,Negative,0.2,0,6.0,Negative,1.025,0,0,0,Absent,Dehydration
+P0226,31,Female,Amber,Clear,Negative,Negative,8.0,0,6.5,Negative,1.015,0,2,0,Absent,Liver Disease
+P0227,23,Female,Dark Yellow,Clear,Negative,Negative,0.2,0,5.0,Negative,1.03,0,0,0,Absent,Dehydration
+P0228,39,Male,Yellow,Clear,Negative,Negative,0.2,300,6.5,++,1.005,0,0,0,Absent,Kidney Disease
+P0229,74,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0230,60,Female,Amber,Clear,Negative,Negative,12.0,0,6.5,Negative,1.015,0,4,0,Absent,Liver Disease
+P0231,80,Female,Yellow,Cloudy,+++,Positive,0.2,30,6.5,+,1.015,0,0,0,Present,UTI
+P0232,81,Male,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.03,160,0,500,Absent,Diabetes
+P0233,24,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0234,81,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0235,21,Male,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.025,160,0,500,Absent,Diabetes
+P0236,51,Male,Yellow,Cloudy,+++,Positive,0.2,100,6.5,Trace,1.015,0,0,0,Present,UTI
+P0237,18,Male,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.025,160,0,2000,Absent,Diabetes
+P0238,38,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0239,81,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0240,68,Female,Yellow,Cloudy,++,Positive,0.2,100,6.5,+,1.015,0,0,0,Present,UTI
+P0241,41,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0242,46,Female,Yellow,Cloudy,++,Positive,0.2,30,6.5,+,1.015,0,0,0,Present,UTI
+P0243,61,Female,Dark Yellow,Clear,Negative,Negative,0.2,0,5.0,Negative,1.025,0,0,0,Absent,Dehydration
+P0244,81,Male,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.03,40,0,2000,Absent,Diabetes
+P0245,26,Male,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.03,40,0,500,Absent,Diabetes
+P0246,42,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0247,49,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0248,26,Male,Yellow,Cloudy,++,Positive,0.2,30,6.5,+,1.015,0,0,0,Present,UTI
+P0249,79,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0250,31,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0251,62,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0252,75,Male,Yellow,Clear,Negative,Negative,0.2,100,6.5,+,1.005,0,0,0,Absent,Kidney Disease
+P0253,49,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0254,52,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0255,48,Male,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.025,80,0,1000,Absent,Diabetes
+P0256,48,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0257,26,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0258,84,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0259,60,Female,Amber,Clear,Negative,Negative,12.0,0,6.5,Negative,1.015,0,2,0,Absent,Liver Disease
+P0260,73,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0261,25,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0262,78,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0263,85,Male,Amber,Clear,Negative,Negative,8.0,0,6.5,Negative,1.015,0,2,0,Absent,Liver Disease
+P0264,37,Male,Dark Yellow,Clear,Negative,Negative,0.2,0,6.0,Negative,1.025,0,0,0,Absent,Dehydration
+P0265,51,Male,Dark Yellow,Clear,Negative,Negative,0.2,0,5.0,Negative,1.03,0,0,0,Absent,Dehydration
+P0266,29,Female,Amber,Clear,Negative,Negative,8.0,0,6.5,Negative,1.015,0,2,0,Absent,Liver Disease
+P0267,70,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0268,34,Female,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.03,160,0,2000,Absent,Diabetes
+P0269,59,Female,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.025,80,0,2000,Absent,Diabetes
+P0270,43,Male,Yellow,Clear,Negative,Negative,0.2,300,6.5,++,1.005,0,0,0,Absent,Kidney Disease
+P0271,29,Female,Amber,Clear,Negative,Negative,8.0,0,6.5,Negative,1.015,0,2,0,Absent,Liver Disease
+P0272,68,Male,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.03,80,0,1000,Absent,Diabetes
+P0273,20,Male,Yellow,Cloudy,++,Positive,0.2,30,6.5,+,1.015,0,0,0,Present,UTI
+P0274,72,Male,Dark Yellow,Clear,Negative,Negative,0.2,0,5.0,Negative,1.03,0,0,0,Absent,Dehydration
+P0275,53,Male,Yellow,Clear,Negative,Negative,0.2,100,6.5,+,1.01,0,0,0,Absent,Kidney Disease
+P0276,61,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0277,73,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0278,24,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0279,22,Female,Amber,Clear,Negative,Negative,8.0,0,6.5,Negative,1.015,0,2,0,Absent,Liver Disease
+P0280,77,Male,Yellow,Cloudy,++,Positive,0.2,30,6.5,Trace,1.015,0,0,0,Present,UTI
+P0281,83,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0282,41,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0283,63,Male,Yellow,Cloudy,+++,Positive,0.2,30,6.5,Trace,1.015,0,0,0,Present,UTI
+P0284,55,Male,Amber,Clear,Negative,Negative,8.0,0,6.5,Negative,1.015,0,2,0,Absent,Liver Disease
+P0285,73,Male,Yellow,Clear,Negative,Negative,0.2,300,6.5,++,1.005,0,0,0,Absent,Kidney Disease
+P0286,48,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0287,23,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0288,36,Female,Amber,Clear,Negative,Negative,4.0,0,6.5,Negative,1.015,0,2,0,Absent,Liver Disease
+P0289,76,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0290,36,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0291,84,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0292,29,Male,Yellow,Cloudy,+++,Positive,0.2,100,6.5,Trace,1.015,0,0,0,Present,UTI
+P0293,71,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0294,50,Male,Amber,Clear,Negative,Negative,12.0,0,6.5,Negative,1.015,0,4,0,Absent,Liver Disease
+P0295,61,Male,Yellow,Cloudy,++,Positive,0.2,30,6.5,+,1.015,0,0,0,Present,UTI
+P0296,40,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0297,35,Female,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.03,80,0,2000,Absent,Diabetes
+P0298,36,Male,Yellow,Clear,Negative,Negative,0.2,2000,6.5,++,1.01,0,0,0,Absent,Kidney Disease
+P0299,27,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0300,20,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0301,70,Male,Yellow,Clear,Negative,Negative,0.2,2000,6.5,++,1.01,0,0,0,Absent,Kidney Disease
+P0302,46,Male,Amber,Clear,Negative,Negative,12.0,0,6.5,Negative,1.015,0,2,0,Absent,Liver Disease
+P0303,66,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0304,42,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0305,85,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0306,70,Female,Yellow,Clear,Negative,Negative,0.2,2000,6.5,+,1.005,0,0,0,Absent,Kidney Disease
+P0307,18,Female,Yellow,Cloudy,+++,Positive,0.2,30,6.5,Trace,1.015,0,0,0,Present,UTI
+P0308,59,Female,Yellow,Cloudy,+++,Positive,0.2,100,6.5,+,1.015,0,0,0,Present,UTI
+P0309,81,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0310,41,Male,Amber,Clear,Negative,Negative,8.0,0,6.5,Negative,1.015,0,2,0,Absent,Liver Disease
+P0311,44,Male,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.025,80,0,500,Absent,Diabetes
+P0312,30,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0313,64,Female,Yellow,Cloudy,+++,Positive,0.2,30,6.5,+,1.015,0,0,0,Present,UTI
+P0314,23,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0315,67,Male,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.03,40,0,2000,Absent,Diabetes
+P0316,28,Female,Amber,Clear,Negative,Negative,4.0,0,6.5,Negative,1.015,0,2,0,Absent,Liver Disease
+P0317,83,Female,Yellow,Cloudy,++,Positive,0.2,100,6.5,+,1.015,0,0,0,Present,UTI
+P0318,60,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0319,41,Male,Amber,Clear,Negative,Negative,12.0,0,6.5,Negative,1.015,0,2,0,Absent,Liver Disease
+P0320,76,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0321,39,Female,Yellow,Cloudy,+++,Positive,0.2,30,6.5,+,1.015,0,0,0,Present,UTI
+P0322,54,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0323,35,Female,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.03,80,0,1000,Absent,Diabetes
+P0324,23,Male,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.025,160,0,2000,Absent,Diabetes
+P0325,59,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0326,60,Male,Yellow,Cloudy,++,Positive,0.2,100,6.5,+,1.015,0,0,0,Present,UTI
+P0327,62,Female,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.025,80,0,1000,Absent,Diabetes
+P0328,30,Female,Yellow,Cloudy,+++,Positive,0.2,100,6.5,Trace,1.015,0,0,0,Present,UTI
+P0329,53,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0330,40,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0331,64,Male,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.03,40,0,2000,Absent,Diabetes
+P0332,27,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0333,73,Male,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.025,40,0,2000,Absent,Diabetes
+P0334,25,Male,Yellow,Cloudy,++,Positive,0.2,30,6.5,Trace,1.015,0,0,0,Present,UTI
+P0335,38,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0336,22,Male,Yellow,Cloudy,+++,Positive,0.2,100,6.5,Trace,1.015,0,0,0,Present,UTI
+P0337,59,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0338,48,Male,Yellow,Clear,Negative,Negative,0.2,2000,6.5,+,1.005,0,0,0,Absent,Kidney Disease
+P0339,20,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0340,74,Female,Yellow,Cloudy,++,Positive,0.2,30,6.5,Trace,1.015,0,0,0,Present,UTI
+P0341,39,Male,Amber,Clear,Negative,Negative,4.0,0,6.5,Negative,1.015,0,2,0,Absent,Liver Disease
+P0342,84,Male,Amber,Clear,Negative,Negative,8.0,0,6.5,Negative,1.015,0,2,0,Absent,Liver Disease
+P0343,77,Female,Yellow,Cloudy,++,Positive,0.2,30,6.5,+,1.015,0,0,0,Present,UTI
+P0344,80,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0345,72,Female,Yellow,Cloudy,+++,Positive,0.2,100,6.5,+,1.015,0,0,0,Present,UTI
+P0346,35,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0347,25,Female,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.03,160,0,1000,Absent,Diabetes
+P0348,65,Female,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.03,40,0,2000,Absent,Diabetes
+P0349,21,Male,Yellow,Cloudy,+++,Positive,0.2,100,6.5,+,1.015,0,0,0,Present,UTI
+P0350,57,Female,Amber,Clear,Negative,Negative,4.0,0,6.5,Negative,1.015,0,4,0,Absent,Liver Disease
+P0351,78,Female,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.03,80,0,500,Absent,Diabetes
+P0352,48,Male,Yellow,Clear,Negative,Negative,0.2,100,6.5,++,1.01,0,0,0,Absent,Kidney Disease
+P0353,22,Female,Yellow,Clear,Negative,Negative,0.2,300,6.5,++,1.005,0,0,0,Absent,Kidney Disease
+P0354,18,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0355,29,Female,Yellow,Cloudy,+++,Positive,0.2,30,6.5,+,1.015,0,0,0,Present,UTI
+P0356,35,Male,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.025,160,0,500,Absent,Diabetes
+P0357,64,Female,Yellow,Cloudy,++,Positive,0.2,100,6.5,+,1.015,0,0,0,Present,UTI
+P0358,57,Male,Yellow,Cloudy,+++,Positive,0.2,100,6.5,Trace,1.015,0,0,0,Present,UTI
+P0359,66,Female,Yellow,Cloudy,++,Positive,0.2,30,6.5,Trace,1.015,0,0,0,Present,UTI
+P0360,46,Female,Yellow,Clear,Negative,Negative,0.2,100,6.5,+,1.005,0,0,0,Absent,Kidney Disease
+P0361,66,Male,Amber,Clear,Negative,Negative,8.0,0,6.5,Negative,1.015,0,4,0,Absent,Liver Disease
+P0362,33,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0363,42,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0364,52,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0365,61,Female,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.025,160,0,1000,Absent,Diabetes
+P0366,20,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0367,43,Female,Yellow,Cloudy,+++,Positive,0.2,100,6.5,+,1.015,0,0,0,Present,UTI
+P0368,34,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0369,61,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0370,70,Female,Yellow,Cloudy,+++,Positive,0.2,100,6.5,+,1.015,0,0,0,Present,UTI
+P0371,85,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0372,65,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0373,76,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0374,21,Male,Yellow,Clear,Negative,Negative,0.2,100,6.5,+,1.01,0,0,0,Absent,Kidney Disease
+P0375,38,Male,Yellow,Clear,Negative,Negative,0.2,2000,6.5,+,1.005,0,0,0,Absent,Kidney Disease
+P0376,19,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0377,32,Female,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.025,160,0,500,Absent,Diabetes
+P0378,81,Male,Yellow,Clear,Negative,Negative,0.2,100,6.5,++,1.01,0,0,0,Absent,Kidney Disease
+P0379,48,Male,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.03,80,0,1000,Absent,Diabetes
+P0380,61,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0381,20,Female,Yellow,Cloudy,+++,Positive,0.2,100,6.5,Trace,1.015,0,0,0,Present,UTI
+P0382,79,Female,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.03,40,0,2000,Absent,Diabetes
+P0383,64,Male,Yellow,Cloudy,+++,Positive,0.2,30,6.5,Trace,1.015,0,0,0,Present,UTI
+P0384,70,Male,Dark Yellow,Clear,Negative,Negative,0.2,0,5.0,Negative,1.03,0,0,0,Absent,Dehydration
+P0385,78,Female,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.03,80,0,500,Absent,Diabetes
+P0386,64,Female,Yellow,Cloudy,+++,Positive,0.2,100,6.5,+,1.015,0,0,0,Present,UTI
+P0387,55,Female,Yellow,Cloudy,+++,Positive,0.2,100,6.5,Trace,1.015,0,0,0,Present,UTI
+P0388,38,Male,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.03,160,0,500,Absent,Diabetes
+P0389,30,Female,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.03,80,0,500,Absent,Diabetes
+P0390,31,Female,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.03,160,0,500,Absent,Diabetes
+P0391,63,Male,Yellow,Cloudy,++,Positive,0.2,100,6.5,Trace,1.015,0,0,0,Present,UTI
+P0392,70,Male,Amber,Clear,Negative,Negative,12.0,0,6.5,Negative,1.015,0,4,0,Absent,Liver Disease
+P0393,29,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0394,35,Male,Dark Yellow,Clear,Negative,Negative,0.2,0,5.0,Negative,1.03,0,0,0,Absent,Dehydration
+P0395,63,Male,Amber,Clear,Negative,Negative,12.0,0,6.5,Negative,1.015,0,4,0,Absent,Liver Disease
+P0396,59,Female,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.025,80,0,2000,Absent,Diabetes
+P0397,59,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0398,55,Female,Yellow,Cloudy,++,Positive,0.2,100,6.5,Trace,1.015,0,0,0,Present,UTI
+P0399,30,Female,Yellow,Cloudy,+++,Positive,0.2,100,6.5,+,1.015,0,0,0,Present,UTI
+P0400,46,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0401,79,Male,Dark Yellow,Clear,Negative,Negative,0.2,0,5.0,Negative,1.025,0,0,0,Absent,Dehydration
+P0402,69,Male,Yellow,Cloudy,++,Positive,0.2,100,6.5,+,1.015,0,0,0,Present,UTI
+P0403,27,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0404,55,Female,Yellow,Cloudy,++,Positive,0.2,100,6.5,+,1.015,0,0,0,Present,UTI
+P0405,80,Female,Dark Yellow,Clear,Negative,Negative,0.2,0,6.0,Negative,1.03,0,0,0,Absent,Dehydration
+P0406,73,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0407,68,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0408,34,Female,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.03,160,0,1000,Absent,Diabetes
+P0409,56,Male,Yellow,Cloudy,+++,Positive,0.2,100,6.5,Trace,1.015,0,0,0,Present,UTI
+P0410,60,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0411,51,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0412,32,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0413,30,Male,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.025,40,0,2000,Absent,Diabetes
+P0414,77,Male,Yellow,Cloudy,++,Positive,0.2,30,6.5,+,1.015,0,0,0,Present,UTI
+P0415,74,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0416,47,Male,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.025,40,0,2000,Absent,Diabetes
+P0417,52,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0418,27,Female,Yellow,Cloudy,++,Positive,0.2,30,6.5,Trace,1.015,0,0,0,Present,UTI
+P0419,60,Female,Yellow,Cloudy,+++,Positive,0.2,30,6.5,Trace,1.015,0,0,0,Present,UTI
+P0420,55,Male,Yellow,Clear,Negative,Negative,0.2,2000,6.5,+,1.01,0,0,0,Absent,Kidney Disease
+P0421,27,Male,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.03,80,0,500,Absent,Diabetes
+P0422,72,Male,Yellow,Cloudy,+++,Positive,0.2,100,6.5,+,1.015,0,0,0,Present,UTI
+P0423,44,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0424,51,Female,Yellow,Clear,Negative,Negative,0.2,300,6.5,+,1.01,0,0,0,Absent,Kidney Disease
+P0425,65,Female,Dark Yellow,Clear,Negative,Negative,0.2,0,5.0,Negative,1.03,0,0,0,Absent,Dehydration
+P0426,49,Male,Amber,Clear,Negative,Negative,4.0,0,6.5,Negative,1.015,0,2,0,Absent,Liver Disease
+P0427,49,Male,Yellow,Cloudy,++,Positive,0.2,100,6.5,+,1.015,0,0,0,Present,UTI
+P0428,51,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0429,75,Female,Yellow,Cloudy,++,Positive,0.2,100,6.5,Trace,1.015,0,0,0,Present,UTI
+P0430,46,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0431,41,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0432,71,Male,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.025,80,0,2000,Absent,Diabetes
+P0433,75,Female,Amber,Clear,Negative,Negative,12.0,0,6.5,Negative,1.015,0,4,0,Absent,Liver Disease
+P0434,24,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0435,59,Male,Yellow,Cloudy,+++,Positive,0.2,100,6.5,Trace,1.015,0,0,0,Present,UTI
+P0436,81,Male,Yellow,Cloudy,+++,Positive,0.2,30,6.5,Trace,1.015,0,0,0,Present,UTI
+P0437,50,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0438,79,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0439,49,Male,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.025,80,0,2000,Absent,Diabetes
+P0440,19,Male,Yellow,Clear,Negative,Negative,0.2,300,6.5,++,1.01,0,0,0,Absent,Kidney Disease
+P0441,21,Male,Yellow,Cloudy,+++,Positive,0.2,30,6.5,+,1.015,0,0,0,Present,UTI
+P0442,70,Male,Yellow,Cloudy,++,Positive,0.2,30,6.5,+,1.015,0,0,0,Present,UTI
+P0443,31,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0444,26,Male,Yellow,Clear,Negative,Negative,0.2,300,6.5,+,1.005,0,0,0,Absent,Kidney Disease
+P0445,29,Male,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.025,160,0,1000,Absent,Diabetes
+P0446,69,Female,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.025,80,0,2000,Absent,Diabetes
+P0447,59,Female,Yellow,Clear,Negative,Negative,0.2,2000,6.5,+,1.01,0,0,0,Absent,Kidney Disease
+P0448,19,Female,Yellow,Clear,Negative,Negative,0.2,300,6.5,+,1.005,0,0,0,Absent,Kidney Disease
+P0449,67,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0450,35,Male,Dark Yellow,Clear,Negative,Negative,0.2,0,5.0,Negative,1.03,0,0,0,Absent,Dehydration
+P0451,61,Male,Yellow,Cloudy,+++,Positive,0.2,30,6.5,Trace,1.015,0,0,0,Present,UTI
+P0452,67,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0453,53,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0454,41,Female,Yellow,Clear,Negative,Negative,0.2,2000,6.5,++,1.005,0,0,0,Absent,Kidney Disease
+P0455,51,Male,Dark Yellow,Clear,Negative,Negative,0.2,0,6.0,Negative,1.025,0,0,0,Absent,Dehydration
+P0456,30,Male,Yellow,Cloudy,++,Positive,0.2,30,6.5,+,1.015,0,0,0,Present,UTI
+P0457,85,Female,Yellow,Cloudy,++,Positive,0.2,30,6.5,Trace,1.015,0,0,0,Present,UTI
+P0458,46,Female,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.025,40,0,500,Absent,Diabetes
+P0459,44,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0460,60,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0461,27,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0462,45,Female,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.025,160,0,2000,Absent,Diabetes
+P0463,55,Male,Yellow,Clear,Negative,Negative,0.2,300,6.5,+,1.005,0,0,0,Absent,Kidney Disease
+P0464,75,Female,Yellow,Cloudy,++,Positive,0.2,30,6.5,+,1.015,0,0,0,Present,UTI
+P0465,65,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0466,23,Female,Yellow,Clear,Negative,Negative,0.2,2000,6.5,+,1.01,0,0,0,Absent,Kidney Disease
+P0467,41,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0468,37,Male,Yellow,Cloudy,+++,Positive,0.2,100,6.5,+,1.015,0,0,0,Present,UTI
+P0469,27,Male,Yellow,Cloudy,+++,Positive,0.2,30,6.5,Trace,1.015,0,0,0,Present,UTI
+P0470,54,Female,Yellow,Clear,Negative,Negative,0.2,100,6.5,+,1.005,0,0,0,Absent,Kidney Disease
+P0471,54,Female,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.025,160,0,1000,Absent,Diabetes
+P0472,29,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0473,36,Female,Yellow,Cloudy,++,Positive,0.2,100,6.5,Trace,1.015,0,0,0,Present,UTI
+P0474,75,Male,Dark Yellow,Clear,Negative,Negative,0.2,0,6.0,Negative,1.025,0,0,0,Absent,Dehydration
+P0475,25,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0476,82,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0477,78,Male,Yellow,Cloudy,+++,Positive,0.2,30,6.5,Trace,1.015,0,0,0,Present,UTI
+P0478,46,Female,Dark Yellow,Clear,Negative,Negative,0.2,0,6.0,Negative,1.025,0,0,0,Absent,Dehydration
+P0479,83,Female,Yellow,Cloudy,++,Positive,0.2,30,6.5,Trace,1.015,0,0,0,Present,UTI
+P0480,30,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0481,28,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0482,39,Male,Yellow,Cloudy,+++,Positive,0.2,30,6.5,+,1.015,0,0,0,Present,UTI
+P0483,25,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0484,65,Female,Amber,Clear,Negative,Negative,4.0,0,6.5,Negative,1.015,0,4,0,Absent,Liver Disease
+P0485,38,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0486,58,Male,Dark Yellow,Clear,Negative,Negative,0.2,0,6.0,Negative,1.025,0,0,0,Absent,Dehydration
+P0487,69,Female,Yellow,Clear,Negative,Negative,0.2,300,6.5,+,1.005,0,0,0,Absent,Kidney Disease
+P0488,84,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0489,57,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0490,25,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0491,56,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0492,79,Male,Pale Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.025,160,0,500,Absent,Diabetes
+P0493,31,Female,Yellow,Cloudy,+++,Positive,0.2,30,6.5,Trace,1.015,0,0,0,Present,UTI
+P0494,84,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0495,62,Male,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0496,78,Male,Yellow,Cloudy,+++,Positive,0.2,100,6.5,Trace,1.015,0,0,0,Present,UTI
+P0497,76,Female,Yellow,Cloudy,++,Positive,0.2,30,6.5,+,1.015,0,0,0,Present,UTI
+P0498,30,Male,Yellow,Clear,Negative,Negative,0.2,300,6.5,++,1.005,0,0,0,Absent,Kidney Disease
+P0499,85,Female,Yellow,Clear,Negative,Negative,0.2,0,6.5,Negative,1.015,0,0,0,Absent,Normal
+P0500,33,Female,Amber,Clear,Negative,Negative,4.0,0,6.5,Negative,1.015,0,4,0,Absent,Liver Disease
